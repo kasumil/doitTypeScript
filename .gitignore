@@ -1,3 +1,6 @@
+# node_modules #
+*.log
+
 # Directories #
 /build/
 /bin/
@@ -13,18 +16,3 @@ target/
 *.war
 *.ear
 *.db
-      
-# Eclipse #
-.project
-.metadata
-.classpath
-.settings/
-.loadpath
- 
-bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
-local.properties
-/src/main/resources/rebel.xml
